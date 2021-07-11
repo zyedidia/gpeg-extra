@@ -1,0 +1,5 @@
+testdata
+/bench/sitter
+/bench/gpeg
+/bench/*.dat
+/bench/*.txt

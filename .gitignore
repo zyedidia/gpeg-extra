@@ -3,3 +3,4 @@ testdata
 /bench/gpeg
 /bench/*.dat
 /bench/*.txt
+*.dot
